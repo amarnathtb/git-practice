@@ -19,8 +19,10 @@ I was emotionally dull and my mom also needed my support. I have started searchi
 In the month of Mar i started searching a jobs in infrastructure domain for IT manager. In the interim period, 
 completed the renovation of the house in madurai and bangalore
 * RHCE
-* Bigdata/Hadoop admin Training & Project
-* Also job search for various position.
+Bigdata/Hadoop admin Training & Project
+Also job search for various position.
+
+Prodcuing conflict entries in branch1
 
 But things turned out differently as the hiring process is slow for the senior positions.
 
